@@ -2,7 +2,7 @@
 
 Disponiveis recursos por tipologias.
 
-- Livros
+- [Livros](https://github.com/PythonDevPT/RecursosPython/blob/master/Livros.md)
 - [Cursos online](https://github.com/PythonDevPT/RecursosPython/blob/master/CursosOnline.md)
 - [Tutoriais](https://github.com/PythonDevPT/RecursosPython/blob/master/Tutoriais.md)
 - Podcasts
